@@ -1,0 +1,9 @@
+train: ./custom_data/train
+val: ./custom_data/eval
+test: ./custom_data/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['no_mask', 'yes_mask']
