@@ -6,4 +6,4 @@ test: ./custom_data/test
 nc: 2
 
 # class names
-names: ['no_mask', 'yes_mask']
+names: ['cylinder', 'cone', 'sphere']
